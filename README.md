@@ -6,7 +6,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/crisbustaq/)
 
-[Email](c.bustamantequito@gmail.com)
+[Email](mailto:c.bustamantequito@gmail.com)
 <!---
 Crisbusta/Crisbusta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
