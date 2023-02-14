@@ -1,12 +1,43 @@
-- 👋 Hola, Soy Cristóbal Bustamante. Un ingeniero en computación en informática que está comenzando a adentrarse en el mundo laboral, actualmente estoy enfocado en absorber todo el conocimiento posible de manera autodidacta. Uno de mis objetivos como profesional es integrarme a un equipo y aprender de personas con más experiencia que yo.
-- 👀 Me interesa el desarrollo web, la automatización de procesos y hacer el día a día más fácil con pequeñas aplicaciones
-- 🌱 Actualmente me estoy dedicando full time a aprender el stack MERN
-- 📫 ¿Donde me puedes encontrar?
+# ¡Hola! 👋
 
-[LinkedIn](https://www.linkedin.com/in/crisbustaq/)
+Soy Cristóbal Bustamante, un ingeniero y desarrollador apasionado por la informática y como esta nos ayuda a solucionar problemas de nuestro día a día. Me encanta trabajar en proyectos que desafíen mis capacidades y me hagan aprender cosas nuevas.
 
-[Email](mailto:c.bustamantequito@gmail.com)
-<!---
-Crisbusta/Crisbusta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Habilidades y tecnologías
+
+- Python
+- Django
+- Sql
+- PostgreSql
+- Javascript
+- Shell - Command Line Interface 
+- Git
+- Docker
+- Visual studio code (Utilizo harto los shortcuts que ofrece, me ayuda a optimizar tiempo y ocupar menos el mouse 🤓)
+
+## 💻 Proyectos destacados
+
+Aquí están algunos de mis proyectos más destacados:
+
+- [Gestor de contraseñas](https://github.com/Crisbusta/gestor-de-contrasenias) - Gestor de contraseñas con interfaz grafica, desarrollado en python con Tkinter. Almacena todas las contraseñas de manera local en un archivo que puede ser consultado.
+- [Base django](https://github.com/Crisbusta/base-django) - Un repositorio simple pero que ahorra tiempo, es la base para crear un proyecto en Django + Docker y PostgreSql
+- [Sistema de autenticación en Django](https://github.com/Crisbusta/Login-Django) - Repositorio que facilita la creación de usuarios extendiendo el modelo User entregado por Django y añadiendole atributos personalizados.
+- [Trackeador de ofertas en amazon](https://github.com/Crisbusta/amazon-price-tracker) - Script que busca el precio de un producto mediante web scraping, si el precio está debajo del precio deseado se envía una alerta mediante un correo electrónico.
+
+## 📚 Estoy aprendiendo
+
+Estas son algunas de las tecnologías y habilidades que estoy aprendiendo en este momento:
+
+- MERN - Mongodb/Express/React/Node
+- Docker
+- Código limpio
+- Clean Architecture
+- Python, es mi lenguaje preferido por lo que aquí estoy en constante aprendizaje
+- Inglés, intento tener el inglés lo más cerca en mi día a día, desde mi celular hasta mis entornos de trabajo están en inglés.
+
+## 📫 Cómo contactarme
+
+- [LinkedIn](https://www.linkedin.com/in/crisbustaq/)
+- [Correo electrónico](mailto:c.bustamantequito@gmail.com)
+- [CV](https://drive.google.com/file/d/14mKEzbT8j8lsivl7nAC3QQfSaPnHhKeF/view?usp=sharing) - Te dejo mi currículum por si quieres saber más de mi experiencia profesional.
+
+¡Gracias por llegar hasta acá! No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en un proyecto.
